@@ -1,0 +1,115 @@
+﻿  dllmain.cpp
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\sdk.h(1183,34): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\sdk.h(1183,34): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\sdk.h(1183,46): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\sdk.h(1183,46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\render.h(69,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\render.h(73,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\render.h(74,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\render.h(75,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\render.h(76,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(267,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(274,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(283,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(288,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(296,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(320,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(327,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(331,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(332,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(333,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(334,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(340,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(404,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(404,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(408,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(436,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(440,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(476,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(483,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(483,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(486,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(520,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(527,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(527,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(532,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(532,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(536,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(572,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(588,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(708,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(714,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(718,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(718,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(730,70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(745,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(746,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(781,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(788,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(788,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(794,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(794,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(798,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(832,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(843,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(936,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(943,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(943,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(948,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(948,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(952,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(1026,125): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\ZeroGUI.h(1026,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(22,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(23,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(221,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(228,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(229,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(231,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(232,34): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(338,88): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(360,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(367,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(377,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(384,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(402,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(402,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(404,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(404,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(919,234): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(919,214): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(919,190): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(919,186): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(919,176): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(936,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1006,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1007,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1224,145): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1224,126): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1224,98): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1224,75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1224,65): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1338,164): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1338,145): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1338,117): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1338,91): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\hooking.h(1338,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\dllmain.cpp(4,108): warning C4244: 'return': conversion from 'LRESULT' to 'int', possible loss of data
+     Creating library C:\Users\peedl\Desktop\everything pt 7\novacane updated\x64\Release\novoline.lib and object C:\Users\peedl\Desktop\everything pt 7\novacane updated\x64\Release\novoline.exp
+  Generating code
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<ugameviewportclient *>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<weakspot_struft_0x2b8>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<item_definition *>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<mesh *>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<container_struct_0x102a>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<ftext>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<enum fort_item_tier>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<uworld *>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<uobject *>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<float>': not all control paths return a value
+C:\Users\peedl\Desktop\everything pt 7\novacane updated\memory.h(20): warning C4715: 'read<tarray<ulocalplayer *> >': not all control paths return a value
+  306 of 307 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    110 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  novacane.clinic.vcxproj -> C:\Users\peedl\Desktop\everything pt 7\novacane updated\x64\Release\novoline.dll
